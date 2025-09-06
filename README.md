@@ -41,19 +41,6 @@
 
 ---
 
-## 🎨 Dotfiles Project ![WIP](https://img.shields.io/badge/Status-🚧_WIP-yellow)
-**Custom BSPWM environment featuring:**  
-- ✨ **Tiling Magic:** BSPWM + sxhkd hotkeys  
-- 🎭 **App Launcher:** Rofi with custom themes  
-- 📸 **Media Tools:** Rofi-powered screenshot/recording scripts  
-- 🐱 **Terminal:** Kitty with Powerlevel10k  
-- 🌈 **Styling:** Picom compositor + custom animation  
-- ⌛ **Next Up:** Polybar configuration  
-
-🔧 **Current Challenge:** Finding the perfect color palette  
-
----
-
 ## 📊 GitHub Stats  
 
 [![My Stats](https://github-readme-stats.vercel.app/api?username=RobyteX&show_icons=true&icon_color=cc3333&title_color=cc3333&text_color=adbac7&bg_color=1e2227&hide_border=true)](https://github.com/RobyteX)  
